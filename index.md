@@ -10,4 +10,12 @@ title: Lens by HTML5 UP
 		<h2>{{ photo.title }}</h2>
 		<p>{{ photo.caption }}</p>
 	</article>
-{% endfor %}</section>
+{% endfor %}
+				<article>
+				<a class="thumbnail" href="assets\images\fulls\13.jpg">
+					<img src="assets\images\thumbs\13.jpg" alt="" />
+				</a>
+				<h2>Title</h2>
+				<p>Description.</p>
+			</article>
+</section>
