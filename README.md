@@ -1,4 +1,4 @@
-# Lens - Jekyll Theme
+# Lens - Jekyll Theme [Album](https://iknowkis.github.io/iknow-album/)
 
 A Jekyll version of the "Lens" theme by [HTML5 UP](https://html5up.net/).
 
